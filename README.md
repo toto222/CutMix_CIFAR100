@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 
 # Train & Evaluation
-There are a number of options that can be set, most of which can be used by default, which you can view in `train.py`.
+There are a number of options that can be set, most of which can be used by default, which you can view in train files.
 ## for train
 ```
 python train_rn34.py --pretrained # if you want to finetune the pretrained ResNet34 model
