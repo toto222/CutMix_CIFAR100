@@ -13,7 +13,7 @@ python train_vits16.py --pretrained # if you want to finetune the pretrained ViT
 
 python train_cutmix.py --net_type <model('vit' or 'rn34')> # If you want to train with CutMix method
 ```
-Thanks to ['CutMix-PyTorch'](https://github.com/clovaai/CutMix-PyTorch) for the algorithmic implementation of CutMix
+Thanks to [`CutMix-PyTorch`](https://github.com/clovaai/CutMix-PyTorch) for the algorithmic implementation of CutMix
 
 ## for evaluation
 ```
